@@ -4,9 +4,9 @@
 
 <listeners>
 
-<listener class-name="com.qa.crm.utilities.ExtentReportManager">
+<listener class-name="com.qa.crm.utilities.ExtentReportManager"/>
   
-</listener>
+
 
 </listeners>
   <test name="CRM functional tests">
