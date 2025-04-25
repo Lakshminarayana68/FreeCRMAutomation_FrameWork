@@ -8,6 +8,8 @@ import org.testng.annotations.Test;
 import com.qa.crm.pages.LoginPage;
 import com.qa.crm.utilities.TestBase;
 
+//Login test
+
 public class LoginTest extends TestBase {
 	
 	public LoginPage loginPage;
